@@ -71,3 +71,6 @@ programa
 r*-*/main
 r*-*/programa
 **/main
+r06-depurador/suma
+r06-depurador/pares
+r06-depurador/maximo
