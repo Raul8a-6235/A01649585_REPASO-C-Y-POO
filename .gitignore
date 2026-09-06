@@ -68,3 +68,6 @@ vcpkg_installed/
 Testing/
 .cache/
 programa
+r*-*/main
+r*-*/programa
+**/main
